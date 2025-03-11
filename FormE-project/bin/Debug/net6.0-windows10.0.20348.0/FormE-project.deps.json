@@ -1,0 +1,43 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FormE-project/1.0.0": {
+        "dependencies": {
+          "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.20348.31"
+        },
+        "runtime": {
+          "FormE-project.dll": {}
+        }
+      },
+      "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.20348.31": {
+        "runtime": {
+          "Microsoft.Windows.SDK.NET.dll": {
+            "assemblyVersion": "10.0.20348.24",
+            "fileVersion": "10.0.20348.31"
+          },
+          "WinRT.Runtime.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.0.4.44211"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormE-project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "runtimepack.Microsoft.Windows.SDK.NET.Ref/10.0.20348.31": {
+      "type": "runtimepack",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
