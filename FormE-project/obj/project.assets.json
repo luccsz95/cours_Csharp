@@ -2148,11 +2148,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\FormE-project\\Cours.csproj",
+      "projectUniqueName": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\FormE-project\\Cours.csproj",
       "projectName": "Cours",
-      "projectPath": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\FormE-project\\Cours.csproj",
+      "projectPath": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\FormE-project\\Cours.csproj",
       "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\FormE-project\\obj\\",
+      "outputPath": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\FormE-project\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

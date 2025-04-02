@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pjBenyl6LbU=",
+  "dgSpecHash": "HBPpLfjoNPQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\FormE-project\\Cours.csproj",
+  "projectFilePath": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\FormE-project\\Cours.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lucas\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\lucas\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

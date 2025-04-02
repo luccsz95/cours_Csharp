@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-project\\e-project.csproj": {}
+    "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-project\\e-project.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-project\\e-project.csproj": {
+    "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-project\\e-project.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-project\\e-project.csproj",
+        "projectUniqueName": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-project\\e-project.csproj",
         "projectName": "e-project",
-        "projectPath": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-project\\e-project.csproj",
+        "projectPath": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-project\\e-project.csproj",
         "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-project\\obj\\",
+        "outputPath": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-project\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

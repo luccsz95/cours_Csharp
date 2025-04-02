@@ -30,10 +30,10 @@ namespace e_proejct_F_4_7_2
         {
             //Créer un nouveau Form D'authentification
             FormAuthent authent = new FormAuthent();
-            //ouvre un formaulaire d'authentification
+            //Ouvre un formaulaire d'authentification
             authent.Show();
-            //ferme cette page
-            //this.Close();
+            //Cache cette page
+            this.Hide();
 
         }
 

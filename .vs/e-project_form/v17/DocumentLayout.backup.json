@@ -1,26 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\",
+  "WorkspaceRootPath": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_f_4_7_2\\formanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|solutionrelative:e-proejct_f_4_7_2\\formanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|c:\\users\\lucas\\desktop\\bts\\1a\\informatique\\newinfo\\projet\\cours_csharp\\e-proejct_f_4_7_2\\formanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|solutionrelative:e-proejct_f_4_7_2\\formanimals.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|c:\\users\\lucas\\desktop\\bts\\1a\\informatique\\newinfo\\projet\\cours_csharp\\e-proejct_f_4_7_2\\formanimals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|solutionrelative:e-proejct_f_4_7_2\\formanimals.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_f_4_7_2\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-proejct_f_4_7_2\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|solutionrelative:e-proejct_f_4_7_2\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_f_4_7_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|solutionrelative:e-proejct_f_4_7_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|c:\\users\\lucas\\desktop\\bts\\cours_csharp\\e-proejct_f_4_7_2\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DDAAB615-B022-4E21-A080-BE59792CB844}|e-proejct_F_4_7_2\\e-proejct_F_4_7_2.csproj|solutionrelative:e-proejct_f_4_7_2\\inscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,67 +42,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormAnimals.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\FormAnimals.Designer.cs",
-              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\FormAnimals.Designer.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\FormAnimals.Designer.cs",
-              "RelativeToolTip": "e-proejct_F_4_7_2\\FormAnimals.Designer.cs",
-              "ViewState": "AgIAANsAAAAAAAAAAAAqwOgAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-11T10:25:59.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Inscription.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\Inscription.cs",
-              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\Inscription.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\Inscription.cs",
-              "RelativeToolTip": "e-proejct_F_4_7_2\\Inscription.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAgwFIAAACEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:26:52.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\Program.cs",
-              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\Program.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\Program.cs",
-              "RelativeToolTip": "e-proejct_F_4_7_2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T19:25:40.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormAnimals.cs",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\FormAnimals.cs",
-              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\FormAnimals.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\FormAnimals.cs",
-              "RelativeToolTip": "e-proejct_F_4_7_2\\FormAnimals.cs",
-              "ViewState": "AgIAAIEAAAAAAAAAAADwv5EAAAAjAAAAAAAAAA==",
+              "Title": "Inscription.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-proejct_F_4_7_2\\Inscription.cs",
+              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\Inscription.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-proejct_F_4_7_2\\Inscription.cs [Design]",
+              "RelativeToolTip": "e-proejct_F_4_7_2\\Inscription.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:56:37.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T17:08:40.912Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormAnimals.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\FormAnimals.cs",
-              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\FormAnimals.cs",
-              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\1A\\Informatique\\newInfo\\projet\\cours_csharp\\e-proejct_F_4_7_2\\FormAnimals.cs [Design]",
-              "RelativeToolTip": "e-proejct_F_4_7_2\\FormAnimals.cs [Design]",
+              "Title": "Inscription.cs",
+              "DocumentMoniker": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-proejct_F_4_7_2\\Inscription.cs",
+              "RelativeDocumentMoniker": "e-proejct_F_4_7_2\\Inscription.cs",
+              "ToolTip": "C:\\Users\\lucas\\Desktop\\BTS\\cours_csharp\\e-proejct_F_4_7_2\\Inscription.cs",
+              "RelativeToolTip": "e-proejct_F_4_7_2\\Inscription.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAtwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-10T09:52:20.751Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-03-10T19:26:52.107Z",
+              "EditorCaption": ""
             }
           ]
         },
